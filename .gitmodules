@@ -8,6 +8,9 @@
 [submodule "cmmr"]
 	path = cmmr
 	url = https://github.com/yaoxiangli/cmmr
+[submodule "omicsTools"]
+	path = omicsTools
+	url = https://github.com/yaoxiangli/omicstools
 [submodule "ShinyLink"]
 	path = ShinyLink
 	url = https://github.com/cran/ShinyLink
