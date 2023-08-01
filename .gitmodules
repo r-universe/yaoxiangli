@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ShinyLink"]
+	path = ShinyLink
+	url = https://github.com/cran/ShinyLink
 [submodule "bpgmm"]
 	path = bpgmm
 	url = https://github.com/cran/bpgmm
 [submodule "cmmr"]
 	path = cmmr
 	url = https://github.com/yaoxiangli/cmmr
-[submodule "ShinyLink"]
-	path = ShinyLink
-	url = https://github.com/cran/ShinyLink
