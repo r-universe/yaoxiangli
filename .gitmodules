@@ -14,3 +14,6 @@
 [submodule "ggvolcano"]
 	path = ggvolcano
 	url = https://github.com/cran/ggvolcano
+[submodule "oglcnac"]
+	path = oglcnac
+	url = https://github.com/yaoxiangli/oglcnac
