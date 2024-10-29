@@ -11,6 +11,9 @@
 [submodule "cmmr"]
 	path = cmmr
 	url = https://github.com/yaoxiangli/cmmr
+[submodule "ggpca"]
+	path = ggpca
+	url = https://github.com/cran/ggpca
 [submodule "ggvolcano"]
 	path = ggvolcano
 	url = https://github.com/cran/ggvolcano
