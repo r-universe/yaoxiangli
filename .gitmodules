@@ -13,7 +13,7 @@
 	url = https://github.com/yaoxiangli/cmmr
 [submodule "ggpca"]
 	path = ggpca
-	url = https://github.com/cran/ggpca
+	url = https://github.com/yaoxiangli/ggpca
 [submodule "ggvolcano"]
 	path = ggvolcano
 	url = https://github.com/cran/ggvolcano
