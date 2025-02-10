@@ -16,4 +16,4 @@
 	url = https://github.com/yaoxiangli/ggpca
 [submodule "ggvolcano"]
 	path = ggvolcano
-	url = https://github.com/cran/ggvolcano
+	url = https://github.com/yaoxiangli/ggvolcano
