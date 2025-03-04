@@ -20,3 +20,6 @@
 [submodule "oglcnac"]
 	path = oglcnac
 	url = https://github.com/yaoxiangli/oglcnac
+[submodule "rconf"]
+	path = rconf
+	url = https://github.com/cran/rconf
