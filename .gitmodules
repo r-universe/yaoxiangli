@@ -7,7 +7,7 @@
 	url = https://github.com/cran/RJSONIO
 [submodule "bpgmm"]
 	path = bpgmm
-	url = https://github.com/cran/bpgmm
+	url = https://github.com/yaoxiangli/bpgmm
 [submodule "cmmr"]
 	path = cmmr
 	url = https://github.com/yaoxiangli/cmmr
