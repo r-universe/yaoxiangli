@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "RJSONIO"]
 	path = RJSONIO
-	url = https://github.com/cran/RJSONIO
+	url = https://github.com/yaoxiangli/rjsonio
 [submodule "bpgmm"]
 	path = bpgmm
 	url = https://github.com/yaoxiangli/bpgmm
