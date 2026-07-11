@@ -14,6 +14,9 @@
 [submodule "ggpca"]
 	path = ggpca
 	url = https://github.com/yaoxiangli/ggpca
+[submodule "ggpower"]
+	path = ggpower
+	url = https://github.com/yaoxiangli/ggpower
 [submodule "ggvolcano"]
 	path = ggvolcano
 	url = https://github.com/yaoxiangli/ggvolcano
